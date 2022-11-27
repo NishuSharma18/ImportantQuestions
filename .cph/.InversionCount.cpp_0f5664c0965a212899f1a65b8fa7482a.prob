@@ -1,0 +1,1 @@
+{"name":"Local: InversionCount","url":"d:\\ImportantDSAQues\\InversionCount.cpp","tests":[{"id":1652794352450,"input":"4\n7\n4 1 4 6 7 7 5\n2\n2 1\n1\n1\n3\n2 2 2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ImportantDSAQues\\InversionCount.cpp","group":"local","local":true}
