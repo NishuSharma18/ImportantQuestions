@@ -89,10 +89,6 @@ static void run_with_stack_size(void (*func)(void), size_t stsize) {
 }
 /*----------------------------------------------------------------------------------------------------------------------------*/
 
-/*
-https://codeforces.com/contest/1881/problem/G
-*/
-
 struct Node{
  int l1,l2,r1,r2; // l1l2... r2r1......
  bool flag;
